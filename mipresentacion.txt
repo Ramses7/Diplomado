@@ -1,0 +1,26 @@
+Este espacio es para aprender comandos basicos
+
+
+
+Primer comando para inicializar un proyecto
+
+git init
+
+Primer comando
+se encarga de poder configurar los elementos de la computadora
+con el repo.
+
+git config --global user.name "tunombredeusuario"
+git config --global user.email "tuemail"
+
+Estos dos elementos se obtienen de la cuenta de GitHub
+
+Nota: Estos comandos solo se registran una sola vez en una computadora personal
+
+Control + S (Es para guardar)
+
+Para cargar los archivos del proyecto
+
+git add .
+git add nombredel archivo
+
